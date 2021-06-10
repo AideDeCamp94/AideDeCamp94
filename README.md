@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AideDeCamp94
-- 👀 I’m interested in 
+- 👀 I’m interested in: 
     - 🦾 Automation
     - 🏭 Builing CI/CD pipelines 
     - ⛴️ Containerization
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning: 
     - 🐍 Python / ☕ Java
     - 🎍Bamboo / 🤵 Jenkins
     - 🐳 Docker
