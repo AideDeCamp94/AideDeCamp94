@@ -4,8 +4,8 @@
     - 🏭 Builing CI/CD pipelines 
     - ⛴️ Containerization
 - 🌱 I’m currently learning: 
-    - 🐍 Python / ☕ Java
-    - 🎍Bamboo / 🤵 Jenkins
+    - 🐍 Python /  JavaScript
+    - 🎍Bamboo / 🤵 Jenkins / Azure DevOps
     - 🐳 Docker
 <!---
 - 💞️ I’m looking to collaborate on ...
